@@ -1,7 +1,9 @@
-# LetEat
+# Help2Feed
 An App for Food waste Management
 
-![Showcase Video](art/showcase.gif)
+The main aim of the application is to help poor people get food by connecting sponsors,
+restaurants/hotels with the charity organisations. The project is part of the Sustainable
+Development Goals (SDG) initiated by the United Nations.
 
 Grab the above demo app from here :
 
